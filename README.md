@@ -50,16 +50,10 @@ docs/        Architecture decisions and learning notes
 outputs/     Project guide and learning track
 ```
 
-## Current status
-
-The project is in the planning and setup stage. The technology stack and one-repository structure have been chosen. The detailed project guide is in [`outputs/deals-community-project-guide.md`](outputs/deals-community-project-guide.md), and architecture decisions are in [`docs/architecture-decisions.md`](docs/architecture-decisions.md).
-
-No application features have been implemented yet. Development will proceed as small, explained steps so that the learner can understand the purpose and behavior of the code rather than receive a complete generated application.
-
 ## Getting started
 
-The app scaffolding and local services are not in place yet. Setup instructions will be added as those pieces are introduced. Docker is intended as an optional way to run local dependencies; users of a future hosted deployment will access the hosted instance without needing the developer’s computer to be running.
+The app scaffolding and local services are not in place yet. Setup instructions will be added as those pieces are introduced. Docker is intended as an optional way to run local dependencies; users of a future hosted deployment will access the hosted instance without needing developer’s computer to be running.
 
 ## License
 
-No license has been selected yet. Choose one before accepting contributions or distributing the project.
+No license has been selected yet.
